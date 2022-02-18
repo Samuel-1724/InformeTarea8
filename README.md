@@ -388,3 +388,195 @@ Z = 245 Ω
 245 Ω, -80.5°
 
 **4.2. Ejercicios del Capítulo 16**
+
+***(1)*** Se aplica un voltaje sinusoidal de 15 kHz a un circuito RL en serie. ¿Cuál es la frecuencia de I, VR yVL?
+
+15 kHz
+
+***(3)*** Exprese la impedancia total de cada circuito de la figura 16-54 tanto en forma polar como rectangular.
+
+[![1.png](https://i.postimg.cc/K4XLmthf/1.png)](https://postimg.cc/V0R5Rr60)
+
+[![2.png](https://i.postimg.cc/XvN2M68J/2.png)](https://postimg.cc/pm7Q873b)
+
+a)	100 Ohms + j50 Ohms;112<26.6° Ohms
+
+b)	1.5 kOhms+j1KOhms; 180<33.7° KOhms
+
+***(5)*** En la figura 16-56, determine la impedancia para cada una de las siguientes frecuencias:
+
+(a) 100 Hz (b) 500 Hz (c) 1 kHz (d) 2 kHz
+
+[![3.png](https://i.postimg.cc/QCZ13p3b/3.png)](https://postimg.cc/xJgcGNqJ)
+
+a)	17.4<46.4° Ohms
+
+b)	64.0<∠79.2° Ohms
+
+c)	127∠< 84.6° Ohms
+
+d)	251<∠87.3° Ohms
+
+***(7)*** Reduzca el circuito de la figura 16-57 a una sola resistencia e inductancia en serie.
+
+[![4.png](https://i.postimg.cc/3xxpY8PP/4.png)](https://postimg.cc/dLgD9YQB)
+
+806 Oms, 4.11mH
+
+***(9)*** Con el mismo voltaje aplicado en el problema 8, determine el voltaje a través de L3 para el circuito de
+la figura 16-57
+
+[![4.png](https://i.postimg.cc/3xxpY8PP/4.png)](https://postimg.cc/dLgD9YQB)
+
+0.370 V
+
+***(11)*** Calcule la corriente total en cada circuito de la figura 16-55 y exprésela en forma polar.
+
+[![6.png](https://i.postimg.cc/pLS9vDQF/6.png)](https://postimg.cc/5Xw9qQR4)
+
+(a)	43.5<-55° mA
+
+(b)	11.8<-34.6° mA
+
+***(13)*** Si se duplica la inductancia que aparece en la figura 16-58, ¿en cuántos grados aumenta o disminuye theta?
+
+[![7.png](https://i.postimg.cc/CM4z5yHY/7.png)](https://postimg.cc/z3VJ2ccP)
+
+Theta se incrementa de 38.7° a 58.1°
+
+***(15)*** Para el circuito de la figura 16-59, encuentre VR y VL para cada una de las siguientes frecuencias:
+(a) 60 Hz (b) 200 Hz (c) 500 Hz (d) 1 kHz
+
+[![8.png](https://i.postimg.cc/3xzwV37j/8.png)](https://postimg.cc/sM9yZdM1)
+
+(a)	VR = 4.85∠ -14.1° V
+
+VL = 1.22∠75.9° V
+
+(b)	VR = 3.83∠ -40.0° V
+
+VL = 3.21∠50.0° V
+
+(c)	VR = 2.16∠ -64.5° V
+
+VL = 4.51∠25.5° V
+
+(d)	VR = 1.16∠ -76.6° V
+
+VL = 4.86∠13.4° V
+
+***(17)*** Para el circuito de retraso de la figura 16-61, determine el retraso de fase del voltaje de salida con respecto a la entrada a las siguientes frecuencias:
+
+(a)	1 Hz (b) 100 Hz (c) 1 kHz (d) 10 kHz
+
+(a)	-0.0923°
+
+(b)	-9.15°
+
+(c)	-58.2°
+
+(d)	-86.4°
+
+***(19)*** ¿Cuál es la impedancia expresada en forma polar para el circuito de la figura 16-63?
+
+[![9.png](https://i.postimg.cc/TwJYKmbQ/9.png)](https://postimg.cc/LYhM7JNZ)
+
+7.75∠49.9° Ohms
+
+***(23)*** Determine las siguientes cantidades en la figura 16-65:
+
+[![10.png](https://i.postimg.cc/9MbCm23n/10.png)](https://postimg.cc/ZBW1H158)
+
+(a) Z = 274<60.7°Ohms
+
+(b) IR= 89.3<∠0° mA
+
+(c)IL= 159<∠ -90° mA	 
+
+(d)Itot	=182∠< -60.7° mA
+
+(e) thetha= 60.7° (Itot retrasada con respecto a Vs)
+
+***(25)*** Convierta el circuito mostrado en la figura 16-66 en uno equivalente en serie.
+
+[![11.png](https://i.postimg.cc/bJmfXRkX/11.png)](https://postimg.cc/YGLsYYd8)
+
+El resistor de 1.83 Æ en serie con la reactancia inductiva de 4.21 kOhms
+
+***(27)*** Determine los voltajes en forma polar a través de cada uno de los elementos de la figura 16-68. Trace el diagrama fasorial de voltaje.
+
+[![12.png](https://i.postimg.cc/13DxRSwr/12.png)](https://postimg.cc/LJ4QvryJ)
+
+VR1 = 21.8∠< -3.89° V
+
+VR2 = 7.27<∠9.61° V
+
+VR3 = 3.38<∠ -53.3° V
+
+VL1 = VL2 = 6.44∠<37.3° V
+
+***(29)*** Determine la corriente en cada rama y la corriente total en la figura 16-68. Expréselas en forma polar.Trace el diagrama fasorial de la corriente.
+
+[![13.png](https://i.postimg.cc/Dzh98Nck/13.png)](https://postimg.cc/pm0GSq7q)
+
+IR1 = IT = 389∠ -3.89° mA
+
+IR2 = 330∠9.61° mA
+
+IR3 = 102∠ -53.3° mA
+
+IL1 = IL2 = 51.3∠ -52.7° mA
+
+***(31)*** Para el circuito de la figura 16-70, determine lo siguiente:
+
+(a) Itot= 588∠< -50.5° mA
+
+(B) VL1= 22.0∠<16.1° V
+
+(C) VAB= 8.63∠< -135° V
+
+***(33)*** Determine el desplazamiento de fase y la atenuación (relación de Vsal a Vent) desde la entrada hasta lasalida en el circuito de la figura 16-71.
+
+[![14.png](https://i.postimg.cc/8Pr9wGKg/14.png)](https://postimg.cc/cr0F4pGF)
+
+Theta=52.5° Vsal retrasado con respecto a Vent), 0.143
+
+***(35)*** Diseñe un circuito conmutador inductivo ideal que suministre un voltaje momentáneo de 2.5 kV con una fuente de 12 V de cd cuando un interruptor es cambiado instantáneamente de una posición a otra.El consumo de corriente de la fuente no debe exceder de 1 A.
+
+[![15.png](https://i.postimg.cc/yNnbW8dc/15.png)](https://postimg.cc/4K75SZpx)
+
+***(37)*** Determine la potencia verdadera y la potencia reactiva en la figura 16-58.
+
+[![16.png](https://i.postimg.cc/ydbpXp0N/16.png)](https://postimg.cc/47p1X5LC)
+
+1.29 W, 1.04 VAR
+
+***(39)*** Determine P, Q, S y FP para el circuito de la figura 16-69. Trace el triángulo de potencia.
+
+[![17.png](https://i.postimg.cc/Bn33KtqV/17.png)](https://postimg.cc/jLMBVxnH)
+
+Preal =290 mW; Pr _ 50.8 mVAR;
+
+Pa=296 mVa;PF=0.985
+
+***(41)*** Trace la curva de respuesta para el circuito de la figura 16-61. Muestre el voltaje de salida contra la frecuencia en incrementos de 1 kHz desde 0 Hz hasta 5 kHz.
+Utilizar la fórmula, Vsal=(R/Ztot) 
+
+[![18.png](https://i.postimg.cc/rmD2krJK/18.png)](https://postimg.cc/8Jg0dsxS)
+
+[![19.png](https://i.postimg.cc/76j8YZsX/19.png)](https://postimg.cc/jw6kMtrJ)
+
+***(43)*** Trace el diagrama fasorial de voltaje para cada circuito de las figuras 16-61 y 16-62 a una frecuencia de 8 kHz.
+
+[![20.png](https://i.postimg.cc/7Y38wDgM/20.png)](https://postimg.cc/dLVSjbNL)
+
+[![21.png](https://i.postimg.cc/W4fxX4vj/21.png)](https://postimg.cc/cKwDJ0C5)
+
+***(45)*** Determine el voltaje de salida en la figura 16-73 para cada uno de los siguientes modos de falla:
+
+[![22.png](https://i.postimg.cc/qq2YJXCM/22.png)](https://postimg.cc/vxHXXnzp)
+
+(a) L1 abierto=0V
+ (b) L2 abierto =0V
+(c) R1 abierto=1.62<-25.8°
+ (d) un cortocircuito a través de R2=2.15<-64.5V
