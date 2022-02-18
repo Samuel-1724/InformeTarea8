@@ -7,14 +7,13 @@ Informe de Tarea 8: Circuitos RC y Circuitos RL.
 
 **2.1. Objetivo General:**
 
-Comprender lo que son los Inductores y los Transformadores. Al igual de cómo se utilizan en la vida diaria.
+Comprender el uso de los circuitos RC Y RL. Al igual de cómo se utilizan en la vida diaria.
 
 **2.2. Objetivos Específicos:**
 
-- Entender las características que un Inductor posee.
-- Definir cada tipo de inductor y su uso.
-- Entender los componentes de un transformador y la utilización del mismo.
-- Diferenciar los diversos parásitos que se presentan en los circuitos que usen conductores.
+- Entender las características que poseen los dos circuitos.
+- Definir el uso que se le puede dar.
+- Comprender los nuevos componentes que estos circuitos usan.
 - Realizar los ejercicios de ambos capítulos para tener mejor conocimiento de los temas. 
 
 **3. MARCO TEÓRICO**
@@ -587,7 +586,8 @@ https://www.youtube.com/watch?v=onl88Rklw44
 
 **6. CONCLUSIONES**
 
-Con este informe entramos a temas que unen muchos conceptos que hemos visto a lo largo de todo el semestre. Tanto leyes como circuitos. Empezamos el primer capítulo con inductores y gracias a la investigación hecha se logró entender que son estos y de qué manera se los puede usar. También la historia que tuvo y de qué manera esta herramienta se ha convertido en una ayuda a la generación actual para a la tecnología. Vimos que estos inductores pueden generar tambien parásitos de capacitores. Luego de comprender el uso de inductores pudimos ver los transformadores y definir que es y de que manera está caracterizado al igual que los lugares más comunes en donde podemos encontrarlo. Vimos los tipos que existen y la potencia de su uso. Al final realizamos los ejercicios de cada capítulo para poder comprender mejor como funcionan.
+En el octavo informe de tarea vimos con mejor detenimiento lo que son circuitos RC y RL los cuales unen dos componentes que ya vimos tanto en clases como en informes anteriores: bobinas y capacitores. En este informe definimos lo que son cada uno de estos circuitos y cómo funcionan en diferentes áreas. Ayudandonos a mejorar cieros parámetros. Mostramos también las ordenes de cada modelo, teniendo circuitos de primer y segundo orden. De igual forma entendimos cada circuitos en circunstancias de serie y paralelos, incluso con ambas en un solo sistema. Entendimos como se pueden aplicar en la vida real y cuales son sus usos más cotidianos. 
+Luego realizamos los ejercicios propuestos para poder entender mejor a cada circuito. Completando modelos y resolviendo matemáticamente cada fórmula propuesta. Al final logramos entender el uso y la eficacia de cada circuito en diferentes áreas.
 
 **7. BIBLIOGRAFÍA**
 
