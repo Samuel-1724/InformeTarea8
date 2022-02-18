@@ -580,3 +580,21 @@ Utilizar la fórmula, Vsal=(R/Ztot)
  (b) L2 abierto =0V
 (c) R1 abierto=1.62<-25.8°
  (d) un cortocircuito a través de R2=2.15<-64.5V
+ 
+ **5. VIDEO**
+
+https://www.youtube.com/watch?v=onl88Rklw44
+
+**6. CONCLUSIONES**
+
+Con este informe entramos a temas que unen muchos conceptos que hemos visto a lo largo de todo el semestre. Tanto leyes como circuitos. Empezamos el primer capítulo con inductores y gracias a la investigación hecha se logró entender que son estos y de qué manera se los puede usar. También la historia que tuvo y de qué manera esta herramienta se ha convertido en una ayuda a la generación actual para a la tecnología. Vimos que estos inductores pueden generar tambien parásitos de capacitores. Luego de comprender el uso de inductores pudimos ver los transformadores y definir que es y de que manera está caracterizado al igual que los lugares más comunes en donde podemos encontrarlo. Vimos los tipos que existen y la potencia de su uso. Al final realizamos los ejercicios de cada capítulo para poder comprender mejor como funcionan.
+
+**7. BIBLIOGRAFÍA**
+
+Etecé. (5 de Agosto de 2021). concepto. Obtenido de https://concepto.de/circuito-en-serie/
+
+McAllister, W. (3 de Septiembre de 2020). Khan Academy. Obtenido de https://es.khanacademy.org/science/physics/circuits-topic/circuits-resistance/a/ee-kirchhoffs-laws
+
+Nat, S. (23 de Julio de 2012). EcuRed. Obtenido de https://www.ecured.cu/Circuito_en_paralelo
+
+
